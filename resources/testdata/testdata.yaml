@@ -1,0 +1,10 @@
+email: ptest@gmail.com
+valid_password: P@ssw0rd
+invalid_password: P@ss12345
+
+newPassword: P@ssw0rd
+confirmPassword: P@ssw0rd
+
+firstName: firstname
+lastName: lastname
+phoneNumber: 0123456789
